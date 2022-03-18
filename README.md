@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atin777
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in coding for hardwares
+- 🌱 I’m currently learning Docker
 - 💞️ Collaborate with me on Product Development
 - 📫 Reach me: atinsarkar7@outlook.com
 
