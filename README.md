@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding for hardwares
 - 🌱 I’m currently learning Docker
 - 💞️ Collaborate with me on Product Development
-- 📫 Reach me: atinsarkar7@outlook.com
+- 📫 Reach me: atinsarkat@gmail.com
 
 <!---
 Atin777/Atin777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
